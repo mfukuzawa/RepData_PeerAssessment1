@@ -1,0 +1,7 @@
+base
+dplyr
+knitr
+kableExtra
+bindrcpp
+xtable
+lattice
